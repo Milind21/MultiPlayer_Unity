@@ -640,7 +640,7 @@ MonoBehaviour:
   ApplyDontDestroyOnLoad: 1
   runInBackground: 1
   statsResetInterval: 1000
-  speakerPrefab: {fileID: 0}
+  speakerPrefab: {fileID: 6258301777635818830, guid: b4457319682d28d4fb30b56394741697, type: 3}
   primaryRecorder: {fileID: 1002642047}
   usePrimaryRecorder: 0
   cppCompatibilityMode: 0
